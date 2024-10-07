@@ -1,5 +1,5 @@
 ---
-title: "My title."
+title: "Nam hahyeon."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -17,6 +17,6 @@ intro:
 
 ## Introduce
 
-Body
+Namhahyeon
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
