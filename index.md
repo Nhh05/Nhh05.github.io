@@ -1,5 +1,5 @@
 ---
-title: "Nam hahyeon."
+title: "My title."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -15,7 +15,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Artificial intelligence
+## Introduce
 
 Body
 
